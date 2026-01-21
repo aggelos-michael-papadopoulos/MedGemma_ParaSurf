@@ -21,7 +21,7 @@ After running these scripts, you will find a test_data/pdbs folder organized as 
 ```bash
 ├── PECAN
 │   ├── TRAIN
-│   │   ├── 1A3R_receptor_1.pdb
+│   │   ├── 1A3R_antibody.pdb
 │   │   ├── 1A3R_antigen_1_1.pdb
 │   │   ├── ...
 │   │   ├── 5WUX_receptor_1.pdb
