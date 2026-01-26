@@ -1,5 +1,11 @@
 ParaSurf + MedGemma coming soon ...
 
+
+## Database
+* Data gathered from ParaSurf paper (Paragraph Expanded + MIPE + PECAN)
+* Data gathered from AACDB https://i.uestc.edu.cn/AACDB/index.html
+
+total antibody-antigen files: 5141 (PDB_all_list.txt)
 ## Installation
 
 Setup the **Environment**
